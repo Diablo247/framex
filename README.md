@@ -31,7 +31,7 @@ Auth	Supabase Auth
 
 ⚙️ Setup Instructions
 1. Clone the Repository
-git clone https://github.com/yourusername/framez.git
+git clone https://github.com/Diablo247/framez.git
 cd framez
 
 2. Install Dependencies
