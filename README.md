@@ -36,7 +36,7 @@ cd framez
 
 2. Install Dependencies
 npm install
-# or
+or
 yarn install
 
 
